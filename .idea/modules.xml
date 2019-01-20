@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/usetech_velobike_tests.iml" filepath="$PROJECT_DIR$/.idea/modules/usetech_velobike_tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/usetech_velobike_tests_main.iml" filepath="$PROJECT_DIR$/.idea/modules/usetech_velobike_tests_main.iml" group="usetech_velobike_tests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/usetech_velobike_tests_test.iml" filepath="$PROJECT_DIR$/.idea/modules/usetech_velobike_tests_test.iml" group="usetech_velobike_tests" />
     </modules>
   </component>
 </project>
