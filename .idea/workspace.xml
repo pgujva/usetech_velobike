@@ -32,8 +32,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="306">
+              <caret line="18" column="45" lean-forward="true" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/Tests/TEST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="799">
+              <caret line="65" column="5" lean-forward="true" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -59,11 +71,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/bdd/SideMenuStepDefinitions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="31" column="49" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
+            <state relative-caret-position="408">
+              <caret line="24" column="10" lean-forward="true" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -71,11 +83,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/bdd/menu.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="55" lean-forward="true" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/bdd/SideMenuTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="8" selection-start-column="8" selection-end-column="36" />
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -112,27 +133,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/Tests/SideMenuTests/GoToPersonalAccountBySideMenuTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/Tests/SideMenuTests/SideMenuNavigationTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -163,8 +163,8 @@
         <option value="$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/Tests/SideMenuTests/SideMenuNavigationTests.java" />
         <option value="$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/Tests/SideMenuTests/SideMenuWindowTestsNotUse.java" />
         <option value="$PROJECT_DIR$/usetech_velobike_tests/build.gradle" />
-        <option value="$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/bdd/SideMenuTest.java" />
         <option value="$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/bdd/StepDefinitions.java" />
+        <option value="$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/bdd/SideMenuTest.java" />
         <option value="$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/bdd/SideMenuStepDefinitions.java" />
       </list>
     </option>
@@ -230,6 +230,15 @@
               <item name="usetech_velobike_tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="velo_bike" type="462c0819:PsiDirectoryNode" />
+              <item name="Tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="usetech_velobike_tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="usetech_velobike_tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -247,18 +256,20 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548024265632" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548026105364" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../velo_bike" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.42643678" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Devel\usetech_velobike\usetech_velobike_tests\src\test\java\ru\usetech\pft\velo_bike\bdd" />
       <recent name="C:\Devel\usetech_velobike\usetech_velobike_tests\src\test\java" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Devel\usetech_velobike\usetech_velobike_tests\src\test\java\ru\usetech\pft\velo_bike\bdd" />
       <recent name="C:\Devel\usetech_velobike\usetech_velobike_tests\src\test" />
       <recent name="C:\Devel\usetech_velobike\usetech_velobike_tests\src\test\java" />
     </key>
@@ -388,25 +399,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SideMenuTest - 2019.01.21 at 01h 15m 40s.xml">
-      <configuration name="SideMenuTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SideMenuTest - 2019.01.21 at 01h 31m 03s.xml">
-      <configuration name="SideMenuTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SideMenuTest - 2019.01.21 at 01h 31m 33s.xml">
-      <configuration name="SideMenuTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SideMenuTest - 2019.01.21 at 01h 35m 09s.xml">
-      <configuration name="SideMenuTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SideMenuTest - 2019.01.21 at 01h 37m 53s.xml">
-      <configuration name="SideMenuTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="SideMenuTest - 2019.01.21 at 01h 39m 32s.xml">
       <configuration name="SideMenuTest" configurationId="TestNG" />
     </history-entry>
     <history-entry file="SideMenuTest - 2019.01.21 at 01h 40m 31s.xml">
+      <configuration name="SideMenuTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SideMenuTest - 2019.01.21 at 01h 45m 43s.xml">
+      <configuration name="SideMenuTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SideMenuTest - 2019.01.21 at 01h 47m 01s.xml">
+      <configuration name="SideMenuTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SideMenuTest - 2019.01.21 at 01h 47m 15s.xml">
+      <configuration name="SideMenuTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SideMenuTest - 2019.01.21 at 01h 47m 44s.xml">
+      <configuration name="SideMenuTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SideMenuTest - 2019.01.21 at 01h 52m 00s.xml">
+      <configuration name="SideMenuTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SideMenuTest - 2019.01.21 at 01h 52m 29s.xml">
+      <configuration name="SideMenuTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SideMenuTest - 2019.01.21 at 01h 53m 24s.xml">
+      <configuration name="SideMenuTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SideMenuTest - 2019.01.21 at 02h 08m 55s.xml">
       <configuration name="SideMenuTest" configurationId="TestNG" />
     </history-entry>
   </component>
@@ -425,7 +445,7 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32979852" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.59046584" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.2524377" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.3997879" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -612,13 +632,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/Tests/TEST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/Tests/MyTestListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="254">
@@ -731,27 +744,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/build.gradle">
+    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/bdd/SideMenuTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/bdd/SideMenuStepDefinitions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="31" column="49" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/bdd/SideMenuTest.java">
+    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/bdd/menu.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="36" />
+        <state relative-caret-position="85">
+          <caret line="5" column="55" lean-forward="true" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="45" lean-forward="true" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/Tests/TEST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="65" column="5" lean-forward="true" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/bdd/SideMenuStepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="10" lean-forward="true" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -767,7 +797,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.42643678" />
               </list>
             </option>
           </splitter-proportions>
@@ -779,7 +809,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.42643678" />
               </list>
             </option>
           </splitter-proportions>
@@ -790,7 +820,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.42643678" />
               </list>
             </option>
           </splitter-proportions>
@@ -802,7 +832,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.42643678" />
               </list>
             </option>
           </splitter-proportions>
@@ -814,8 +844,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
-                <option value="0.6" />
+                <option value="0.42643678" />
               </list>
             </option>
           </splitter-proportions>
@@ -835,10 +864,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Gradle: antlr:antlr:2.7.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.42643678" />
               </list>
             </option>
           </splitter-proportions>

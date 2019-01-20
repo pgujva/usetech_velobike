@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.usetech.pft.velo_bike.Tests.TEST" tests="1" skipped="1" failures="0" errors="0" timestamp="2019-01-20T23:05:06" hostname="DESKTOP-F9751PS" time="0.0">
+  <properties/>
+  <testcase name="TestPricePagde" classname="ru.usetech.pft.velo_bike.Tests.TEST" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

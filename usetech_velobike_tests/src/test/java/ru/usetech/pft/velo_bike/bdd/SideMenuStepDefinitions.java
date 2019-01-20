@@ -31,21 +31,21 @@ public class SideMenuStepDefinitions {
     public void a_side_menu_and_then_go_to_PricePage() {
         app.getNavigationHelper().goToSideMenu();
         app.getNavigationHelper().goPricePage();
-        throw new cucumber.api.PendingException();
+
     }
 
     @When("^i get Current Page URL and get Page Name$")
     public void i_get_Current_Page_URL_and_get_Page_Name() {
         pageUrl = app.getHelperBase().getCurrentPageURL();
         pageName = app.getHelperBase().getPageName(By.tagName("h1"));
-        throw new cucumber.api.PendingException();
+
     }
 
     @Then("^Current Page URL and Page Name equals really URL and page name$")
     public void current_Page_URL_and_Page_Name_equals_really_URL_and_page_name(){
         Assert.assertEquals(pageUrl, "https://velobike.ru/prices/", "неверный URL");
         Assert.assertEquals(pageName, "Сколько это стоит", "неверный заголовок страницы");
-        throw new cucumber.api.PendingException();
+
     }
 
 

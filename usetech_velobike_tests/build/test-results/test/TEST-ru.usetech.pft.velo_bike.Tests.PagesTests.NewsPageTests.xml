@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.usetech.pft.velo_bike.Tests.PagesTests.NewsPageTests" tests="4" skipped="4" failures="0" errors="0" timestamp="2019-01-20T23:05:06" hostname="DESKTOP-F9751PS" time="0.016">
+  <properties/>
+  <testcase name="Test1IsNewsOnPage" classname="ru.usetech.pft.velo_bike.Tests.PagesTests.NewsPageTests" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Test2NewsObject" classname="ru.usetech.pft.velo_bike.Tests.PagesTests.NewsPageTests" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Test3GoToVKPage" classname="ru.usetech.pft.velo_bike.Tests.PagesTests.NewsPageTests" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Test4GoToFacebookPage" classname="ru.usetech.pft.velo_bike.Tests.PagesTests.NewsPageTests" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
