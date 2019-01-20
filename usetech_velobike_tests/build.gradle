@@ -1,2 +1,39 @@
 apply plugin: 'java'
 apply plugin: 'application'
+
+repositories {
+    mavenCentral()
+}
+
+
+configurations {
+    agent
+}
+
+dependencies {
+    compile 'org.testng:testng:6.14.2'
+    compile 'org.seleniumhq.selenium:selenium-java:3.9.1'
+    compile 'org.hamcrest:java-hamcrest:2.0.0.0'
+    compile 'com.beust:jcommander:1.72'
+    compile 'com.thoughtworks.xstream:xstream:1.4.10'
+    compile 'com.google.code.gson:gson:2.8.2'
+    compile 'ch.qos.logback:logback-classic:1.1.5'
+    compile 'mysql:mysql-connector-java:5.1.46'
+    compile 'org.hibernate:hibernate-core:5.1.13.Final'
+    agent "org.aspectj:aspectjweaver:1.8.0"
+    compile "ru.yandex.qatools.allure:allure-testng-adaptor:1.4.0.RC4"
+    compile group: 'org.apache.commons', name: 'commons-io', version: '1.3.2'
+    compile("io.cucumber:cucumber-java:4.2.1")
+    compile("io.cucumber:cucumber-testng:4.2.1")
+}
+
+
+test.doFirst {
+    jvmArgs "-javaagent:${configurations.agent.singleFile}"
+}
+
+test  {
+    useTestNG()
+}
+
+
