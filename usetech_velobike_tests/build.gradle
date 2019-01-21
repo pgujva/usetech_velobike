@@ -33,7 +33,7 @@ test.doFirst {
 }
 
 test  {
-    useTestNG()
+   useTestNG()
 }
 
 
