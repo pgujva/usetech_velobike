@@ -32,7 +32,9 @@ dependencies {
 //tasks.withType(Compile) {
   //  options.encoding = 'UTF-8'
 //}
-
+task wrapper(type: Wrapper) {
+    gradleVersion = '2.10'
+}
 
 test.doFirst {
     jvmArgs "-javaagent:${configurations.agent.singleFile}"
