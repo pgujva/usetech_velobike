@@ -4,13 +4,14 @@ import org.openqa.selenium.By;
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
 import ru.usetech.pft.velo_bike.Model.NewsPageData;
 import ru.usetech.pft.velo_bike.Tests.Testbase;
 
 public class NewsPageTests extends Testbase {
 
-    @BeforeMethod
+    @BeforeClass
    public void ensurePreconditions() {
         app.getSessionHelper().loginInSideMenu("4001776", "3875");
        app.getNavigationHelper().goToPersonalAccountPage();

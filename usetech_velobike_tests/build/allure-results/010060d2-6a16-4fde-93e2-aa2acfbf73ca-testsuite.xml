@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1548109306569" stop="1548109318767">
+    <name>Default Suite</name>
+    <test-cases>
+        <test-case start="1548109311774" stop="1548109313326" status="passed">
+            <name>Test1IsNewsOnPage</name>
+            <steps/>
+            <attachments/>
+            <labels/>
+        </test-case>
+        <test-case start="1548109313457" stop="1548109314671" status="passed">
+            <name>Test2NewsObject</name>
+            <steps/>
+            <attachments/>
+            <labels/>
+        </test-case>
+        <test-case start="1548109314675" stop="1548109316134" status="passed">
+            <name>Test3GoToVKPage</name>
+            <steps/>
+            <attachments/>
+            <labels/>
+        </test-case>
+        <test-case start="1548109316138" stop="1548109318761" status="passed">
+            <name>Test4GoToFacebookPage</name>
+            <steps/>
+            <attachments/>
+            <labels/>
+        </test-case>
+    </test-cases>
+    <labels/>
+</ns2:test-suite>

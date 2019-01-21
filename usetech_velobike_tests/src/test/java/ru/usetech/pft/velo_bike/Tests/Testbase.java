@@ -10,13 +10,13 @@ public class Testbase {
 
  protected static final ApplicationManager app = new ApplicationManager();
 
-    @BeforeMethod
+    @BeforeSuite
     public void setUp(ITestContext context) throws Exception {
     app.init();
        context.setAttribute("app",app);
     }
 
-    @AfterMethod
+    @AfterSuite
     public void tearDown() {
         app.stop();
     }

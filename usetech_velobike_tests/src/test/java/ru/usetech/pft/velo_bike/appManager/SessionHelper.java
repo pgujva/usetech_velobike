@@ -49,4 +49,11 @@ public class SessionHelper {
     public void logoutFromSystem() {
         wd.findElement(By.cssSelector("a.user-quit.hidden-xs")).click();
     }
+
+    public void logoutFromSideMenu() {
+        WebElement load2 = wd.findElement(By.cssSelector("a.logged-box__quit"));
+        wait.until(visibilityOf(load2));
+        load2.click();
+
+    }
 }
