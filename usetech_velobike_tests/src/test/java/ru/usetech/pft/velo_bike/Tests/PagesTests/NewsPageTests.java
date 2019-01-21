@@ -3,18 +3,19 @@ package ru.usetech.pft.velo_bike.Tests.PagesTests;
 import org.openqa.selenium.By;
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
+import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import ru.usetech.pft.velo_bike.Model.NewsPageData;
 import ru.usetech.pft.velo_bike.Tests.Testbase;
 
 public class NewsPageTests extends Testbase {
 
-    @BeforeClass
-    public void ensurePreconditions() {
+    @BeforeMethod
+   public void ensurePreconditions() {
         app.getSessionHelper().loginInSideMenu("4001776", "3875");
-        app.getNavigationHelper().goToPersonalAccountPage();
-        app.getNavigationHelper().goToSideMenu();
-    }
+       app.getNavigationHelper().goToPersonalAccountPage();
+       app.getNavigationHelper().goToSideMenu();
+   }
 
     @Test
     public void Test1IsNewsOnPage() {
@@ -22,7 +23,7 @@ public class NewsPageTests extends Testbase {
         app.getNavigationHelper().goNewsPage();
         boolean news = app.getHelperBase().isElementPresent(By.className("news-list__item"));
 
-        Assert.assertEquals(true, news, "не новостей на странице");
+        Assert.assertEquals(true, news, "нет новостей на странице");
     }
 
     @Test

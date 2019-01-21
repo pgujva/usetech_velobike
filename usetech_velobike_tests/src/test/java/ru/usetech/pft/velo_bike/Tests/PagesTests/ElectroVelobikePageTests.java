@@ -19,7 +19,7 @@ public class ElectroVelobikePageTests extends Testbase {
   }
 
 
-  @Test
+  @Test(enabled = false)
   public void Test1() {
     //проверка перехода по ссылке «стоимость доступа»
     app.getNavigationHelper().goToPriceFromgoElectroVelobikePage();
@@ -28,7 +28,7 @@ public class ElectroVelobikePageTests extends Testbase {
 
   }
 
-  @Test
+  @Test(enabled = false)
   public void Test2() {
     //проверка перехода по ссылке «вопросы и ответы»
     app.getNavigationHelper().goToQaPageFromgoElectroVelobikePage();
@@ -38,7 +38,7 @@ public class ElectroVelobikePageTests extends Testbase {
     Assert.assertEquals(app.getHelperBase().isElementPresent(By.id("electro")), true);
   }
 
-  @Test(enabled = true)
+  @Test(enabled = false)
   public void Test3() throws IOException, InterruptedException {
     //отправляем http запрос и из ответа создаем объект типа station
     HttpSession session = app.newSession();

@@ -49,7 +49,7 @@ public class MainPageTests extends Testbase {
     Assert.assertEquals(actualStation, expectedStation,"неверная станция при поиске по названию");
   }
 
-  @Test(enabled = true)
+  @Test(enabled = false)
   public void Test3GoToParkingsPageTest() {
     app.getMainPageHelper().goToParkingsPage();
     String pageUrl = app.getHelperBase().getCurrentPageURL();
