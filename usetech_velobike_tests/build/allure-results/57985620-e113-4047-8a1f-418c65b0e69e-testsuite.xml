@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1548112653983" stop="1548112670415">
+    <name>Default Suite</name>
+    <test-cases>
+        <test-case start="1548112654023" stop="1548112659680" status="passed">
+            <name>TestLoginToSystemFromHeder</name>
+            <steps/>
+            <attachments/>
+            <labels/>
+        </test-case>
+        <test-case start="1548112659873" stop="1548112665153" status="passed">
+            <name>TestLoginToSystemFromMenu</name>
+            <steps/>
+            <attachments/>
+            <labels/>
+        </test-case>
+        <test-case start="1548112665158" stop="1548112670411" status="passed">
+            <name>TestLogoutFromSystem</name>
+            <steps/>
+            <attachments/>
+            <labels/>
+        </test-case>
+    </test-cases>
+    <labels/>
+</ns2:test-suite>
