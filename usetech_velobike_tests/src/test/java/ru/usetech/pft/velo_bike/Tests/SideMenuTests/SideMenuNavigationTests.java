@@ -62,7 +62,7 @@ public class SideMenuNavigationTests extends Testbase {
     Assert.assertEquals(pageName, "Вопросы и ответы", "неверный заголовок страницы");
   }
 
-  @Test
+  @Test(enabled = false)
   public void TestElectroVelobikePage() {
     app.getNavigationHelper().goToSideMenu();
     app.getNavigationHelper().goElectroVelobikePage();

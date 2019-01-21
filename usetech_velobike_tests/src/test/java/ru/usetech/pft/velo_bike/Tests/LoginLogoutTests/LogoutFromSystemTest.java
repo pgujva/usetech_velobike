@@ -15,5 +15,6 @@ public class LogoutFromSystemTest extends Testbase {
         Assert.assertEquals(app.getHelperBase().isThereARightPage(By.xpath("//a[contains(text(),'Войти')]"),"ВОЙТИ",
                 By.xpath("//a[contains(text(),'Регистрация')]"),"РЕГИСТРАЦИЯ",
                 "https://velobike.ru/"), true);
+
     }
 }

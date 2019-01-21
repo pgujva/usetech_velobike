@@ -41,7 +41,7 @@ public class MenuStepDefinitions {
     @Then("^Current Page URL and Page Name equals really URL and page name$")
     public void current_Page_URL_and_Page_Name_equals_really_URL_and_page_name(){
         Assert.assertEquals(pageUrl, "https://velobike.ru/prices/", "неверный URL");
-        Assert.assertEquals(pageName, "Сколько это стоит", "неверный заголовок страницы");
+        Assert.assertEquals(pageName, "Сколько это стои", "неверный заголовок страницы");
 
     }
 

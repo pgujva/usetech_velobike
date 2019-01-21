@@ -40,7 +40,8 @@ formatter.match({
   "location": "MenuStepDefinitions.current_Page_URL_and_Page_Name_equals_really_URL_and_page_name()"
 });
 formatter.result({
-  "status": "passed"
+  "error_message": "java.lang.AssertionError: неверный заголовок страницы expected [Сколько это стои] but found [Сколько это стоит]\r\n\tat org.testng.Assert.fail(Assert.java:96)\r\n\tat org.testng.Assert.failNotEquals(Assert.java:776)\r\n\tat org.testng.Assert.assertEqualsImpl(Assert.java:137)\r\n\tat org.testng.Assert.assertEquals(Assert.java:118)\r\n\tat org.testng.Assert.assertEquals(Assert.java:453)\r\n\tat MenuStepDefinitions.current_Page_URL_and_Page_Name_equals_really_URL_and_page_name(MenuStepDefinitions.java:44)\r\n\tat ✽.Current Page URL and Page Name equals really URL and page name(src\\test\\resources\\bdd\\menu.feature:6)\r\n",
+  "status": "failed"
 });
 formatter.after({
   "status": "passed"

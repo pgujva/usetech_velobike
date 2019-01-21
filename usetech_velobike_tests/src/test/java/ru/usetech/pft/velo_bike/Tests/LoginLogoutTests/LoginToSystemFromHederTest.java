@@ -7,7 +7,7 @@ import ru.usetech.pft.velo_bike.Tests.Testbase;
 
 public class LoginToSystemFromHederTest extends Testbase {
 
-    @Test()
+    @Test
     public void TestLoginToSystemFromHeder () {
         app.getSessionHelper().loginInHeder("4001776", "3875");
         boolean a = app.getHelperBase().isThereARightPage(By.tagName("h1"), "Личный кабинет",
@@ -15,6 +15,6 @@ public class LoginToSystemFromHederTest extends Testbase {
                 "Тест!", "https://velobike.ru/account/");
         Assert.assertEquals(a, true);
 
-
     }
+
 }

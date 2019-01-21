@@ -1,0 +1,35 @@
+{
+  "uid" : "f290c6b65eff51a6",
+  "name" : "Test1",
+  "title" : "Test 1",
+  "time" : {
+    "start" : 1548076338087,
+    "stop" : 1548076339380,
+    "duration" : 1293
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "3ba22abee4daa3c",
+    "name" : "Gradle suite",
+    "title" : "Gradle suite"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "suite-name",
+    "value" : "Gradle suite"
+  } ],
+  "parameters" : [ ]
+}

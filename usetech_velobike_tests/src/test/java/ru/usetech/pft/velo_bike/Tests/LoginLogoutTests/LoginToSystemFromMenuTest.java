@@ -14,6 +14,7 @@ public class LoginToSystemFromMenuTest extends Testbase {
                 By.cssSelector("span.lk-intro__welcome-name"), "Тест!", "https://velobike.ru/account/");
         app.getNavigationHelper().goToSideMenu();
         Assert.assertEquals(a, true);
+
     }
 
 }

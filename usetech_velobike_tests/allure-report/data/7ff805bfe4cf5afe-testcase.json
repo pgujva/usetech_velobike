@@ -1,0 +1,35 @@
+{
+  "uid" : "7ff805bfe4cf5afe",
+  "name" : "TestGoToPricePage",
+  "title" : "Test go to price page",
+  "time" : {
+    "start" : 1548075416918,
+    "stop" : 0,
+    "duration" : -1548075416918
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "2e6c9b1f808d3603",
+    "name" : "Default Suite",
+    "title" : "Default suite"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  } ],
+  "parameters" : [ ]
+}

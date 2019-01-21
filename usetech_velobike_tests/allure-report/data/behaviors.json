@@ -1,0 +1,224 @@
+{
+  "features" : [ {
+    "title" : "Without feature",
+    "statistic" : {
+      "total" : 18,
+      "passed" : 4,
+      "pending" : 0,
+      "canceled" : 5,
+      "failed" : 2,
+      "broken" : 7
+    },
+    "stories" : [ {
+      "uid" : "e52791a574e33b40",
+      "title" : "Without story",
+      "statistic" : {
+        "total" : 18,
+        "passed" : 4,
+        "pending" : 0,
+        "canceled" : 5,
+        "failed" : 2,
+        "broken" : 7
+      },
+      "testCases" : [ {
+        "uid" : "f290c6b65eff51a6",
+        "name" : "Test1",
+        "title" : "Test 1",
+        "time" : {
+          "start" : 1548076338087,
+          "stop" : 1548076339380,
+          "duration" : 1293
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "b8eec93af0936148",
+        "name" : "Test2",
+        "title" : "Test 2",
+        "time" : {
+          "start" : 1548076341593,
+          "stop" : 1548076342599,
+          "duration" : 1006
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "7ad9388506631408",
+        "name" : "Test3",
+        "title" : "Test 3",
+        "time" : {
+          "start" : 1548076344114,
+          "stop" : 1548076371198,
+          "duration" : 27084
+        },
+        "severity" : "NORMAL",
+        "status" : "BROKEN"
+      }, {
+        "uid" : "c684c19c53845396",
+        "name" : "TestLoginToSystemFromHeder",
+        "title" : "Test login to system from heder",
+        "time" : {
+          "start" : 1548076371198,
+          "stop" : 1548076391809,
+          "duration" : 20611
+        },
+        "severity" : "NORMAL",
+        "status" : "BROKEN"
+      }, {
+        "uid" : "2c3ba706e5f9138",
+        "name" : "TestLoginToSystemFromMenu",
+        "title" : "Test login to system from menu",
+        "time" : {
+          "start" : 1548076391810,
+          "stop" : 1548076415068,
+          "duration" : 23258
+        },
+        "severity" : "NORMAL",
+        "status" : "BROKEN"
+      }, {
+        "uid" : "631e1e6ed4d07baa",
+        "name" : "TestLogoutFromSystem",
+        "title" : "Test logout from system",
+        "time" : {
+          "start" : 1548076415070,
+          "stop" : 1548076435564,
+          "duration" : 20494
+        },
+        "severity" : "NORMAL",
+        "status" : "BROKEN"
+      }, {
+        "uid" : "66501d884117db1e",
+        "name" : "Test3GoToParkingsPageTest",
+        "title" : "Test 3 go to parkings page test",
+        "time" : {
+          "start" : 1548076435659,
+          "stop" : 1548076435662,
+          "duration" : 3
+        },
+        "severity" : "NORMAL",
+        "status" : "CANCELED"
+      }, {
+        "uid" : "58f6b07cce7b2b96",
+        "name" : "Test1IsNewsOnPage",
+        "title" : "Test 1 is news on page",
+        "time" : {
+          "start" : 1548076435795,
+          "stop" : 1548076435796,
+          "duration" : 1
+        },
+        "severity" : "NORMAL",
+        "status" : "CANCELED"
+      }, {
+        "uid" : "fca8ec3afd941048",
+        "name" : "Test2NewsObject",
+        "title" : "Test 2 news object",
+        "time" : {
+          "start" : 1548076435797,
+          "stop" : 1548076435798,
+          "duration" : 1
+        },
+        "severity" : "NORMAL",
+        "status" : "CANCELED"
+      }, {
+        "uid" : "748105d4ea8e9070",
+        "name" : "Test3GoToVKPage",
+        "title" : "Test 3 go to VK page",
+        "time" : {
+          "start" : 1548076435799,
+          "stop" : 1548076435800,
+          "duration" : 1
+        },
+        "severity" : "NORMAL",
+        "status" : "CANCELED"
+      }, {
+        "uid" : "517026c347f5e988",
+        "name" : "Test4GoToFacebookPage",
+        "title" : "Test 4 go to facebook page",
+        "time" : {
+          "start" : 1548076435801,
+          "stop" : 1548076435801,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "CANCELED"
+      }, {
+        "uid" : "2fd48adf6faa3df1",
+        "name" : "TestGoToPricePage",
+        "title" : "Test go to price page",
+        "time" : {
+          "start" : 1548076435803,
+          "stop" : 1548076436377,
+          "duration" : 574
+        },
+        "severity" : "NORMAL",
+        "status" : "BROKEN"
+      }, {
+        "uid" : "de107bd8d2ac2ce1",
+        "name" : "TestGoToPricePage",
+        "title" : "Test go to price page",
+        "time" : {
+          "start" : 1548076436378,
+          "stop" : 1548076436947,
+          "duration" : 569
+        },
+        "severity" : "NORMAL",
+        "status" : "BROKEN"
+      }, {
+        "uid" : "5c48da1caf136e31",
+        "name" : "TestPricePagde",
+        "title" : "Test price pagde",
+        "time" : {
+          "start" : 1548076436948,
+          "stop" : 1548076436950,
+          "duration" : 2
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "e94a413a76376f45",
+        "name" : "TestElectroVelobikePage",
+        "title" : "Test electro velobike page",
+        "time" : {
+          "start" : 1548076141958,
+          "stop" : 1548076147660,
+          "duration" : 5702
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "f152c04d849bbeaf",
+        "name" : "TestGoToPricePage",
+        "title" : "Test go to price page",
+        "time" : {
+          "start" : 1548076147796,
+          "stop" : 1548076168683,
+          "duration" : 20887
+        },
+        "severity" : "NORMAL",
+        "status" : "BROKEN"
+      }, {
+        "uid" : "72b67b65c33aec34",
+        "name" : "TestGoToPricePage",
+        "title" : "Test go to price page",
+        "time" : {
+          "start" : 1548075834972,
+          "stop" : 1548075837707,
+          "duration" : 2735
+        },
+        "severity" : "NORMAL",
+        "status" : "FAILED"
+      }, {
+        "uid" : "80d71161f9ccfa21",
+        "name" : "TestGoToPricePage",
+        "title" : "Test go to price page",
+        "time" : {
+          "start" : 1548076222184,
+          "stop" : 1548076224840,
+          "duration" : 2656
+        },
+        "severity" : "NORMAL",
+        "status" : "FAILED"
+      } ]
+    } ]
+  } ]
+}
