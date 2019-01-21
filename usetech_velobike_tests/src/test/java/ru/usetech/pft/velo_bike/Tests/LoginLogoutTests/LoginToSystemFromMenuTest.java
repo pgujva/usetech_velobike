@@ -7,7 +7,7 @@ import ru.usetech.pft.velo_bike.Tests.Testbase;
 
 public class LoginToSystemFromMenuTest extends Testbase {
 
-    @Test()
+    @Test(enabled = false)
     public void TestLoginToSystemFromMenu() {
         app.getSessionHelper().loginInSideMenu("4001776", "3875");
         boolean a = app.getHelperBase().isThereARightPage(By.tagName("h1"), "Личный кабинет",

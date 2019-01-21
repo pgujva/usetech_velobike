@@ -7,7 +7,7 @@ import ru.usetech.pft.velo_bike.Tests.Testbase;
 
 public class LogoutFromSystemTest extends Testbase {
 
-    @Test()
+    @Test(enabled = false)
     public void TestLogoutFromSystem () {
         app.getSessionHelper().loginInHeder("4001776","3875");
         app.getSessionHelper().logoutFromSystem();
