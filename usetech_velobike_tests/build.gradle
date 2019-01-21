@@ -3,7 +3,7 @@ import com.sun.org.apache.xalan.internal.xsltc.cmdline.Compile
 apply plugin: 'java'
 apply plugin: 'application'
 apply plugin:'base'
-//compileJava.options.encoding = 'UTF-8'
+compileJava.options.encoding = 'UTF-8'
 repositories {
     mavenCentral()
 }
