@@ -1,4 +1,4 @@
-Feature: SideMenu
+Feature: menu
 
 Scenario: GoToPricePage
   Given a side menu and then go to PricePage

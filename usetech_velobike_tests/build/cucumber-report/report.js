@@ -1,6 +1,6 @@
 $(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("bdd\\menu.feature");
 formatter.feature({
-  "name": "SideMenu",
+  "name": "menu",
   "description": "",
   "keyword": "Feature"
 });

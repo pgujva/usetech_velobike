@@ -10,7 +10,7 @@ import org.openqa.selenium.By;
 import org.testng.Assert;
 import ru.usetech.pft.velo_bike.appManager.ApplicationManager;
 
-public class SideMenuStepDefinitions {
+public class MenuStepDefinitions {
 
     private ApplicationManager app;
     String pageUrl;
