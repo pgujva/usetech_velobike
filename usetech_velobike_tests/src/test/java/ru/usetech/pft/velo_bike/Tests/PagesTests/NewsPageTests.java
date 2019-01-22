@@ -63,7 +63,7 @@ public class NewsPageTests extends Testbase {
         app.getHelperBase().closeWindow();
         app.getHelperBase().switchWindow(mainWindow);
 
-        Assert.assertEquals(pagename,"Facebook");
+        Assert.assertEquals(pagename,"Facbook");
     }
 
 }
