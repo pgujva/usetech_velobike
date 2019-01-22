@@ -36,6 +36,12 @@ task wrapper(type: Wrapper) {
     gradleVersion = '2.10'
 }
 
+task testSideMenuNavigation(type: Test) {
+    useTestNG {
+        suites 'src/test/resources/SideMenuNavigation.xml'
+    }
+}
+
 test.doFirst {
   
     jvmArgs "-javaagent:${configurations.agent.singleFile}"
