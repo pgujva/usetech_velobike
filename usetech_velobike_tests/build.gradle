@@ -37,6 +37,7 @@ task wrapper(type: Wrapper) {
 }
 
 test.doFirst {
+    jvmargs='-Dfile.encoding=UTF-8'
     jvmArgs "-javaagent:${configurations.agent.singleFile}"
 }
 
