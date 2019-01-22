@@ -3,7 +3,7 @@
 <suite name="Suite1" verbose="1" >
     <test name="SideMenuNavigation" >
         <classes>
-            <class name="ru.usetech.pft.velo_bike.bdd.MenuTests" />
+            <class name="MenuTests" />
         </classes>
     </test>
 
