@@ -32,8 +32,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+            <state relative-caret-position="765">
+              <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -41,25 +41,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/Tests/PagesTests/NewsPageTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-408">
-              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+            <state relative-caret-position="17">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/SideMenuNavigationTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/Tests/SideMenuTests/SideMenuNavigationTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="79">
+            <state relative-caret-position="272">
               <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
             </state>
           </provider>
@@ -70,6 +61,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="629">
               <caret line="40" selection-start-line="40" selection-end-line="40" />
+              <folding>
+                <marker date="1548109768962" expanded="true" signature="1577:1584" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -77,7 +71,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.9.1/6d7d1e4444a30bb84633e7ed888e9dcb3877a188/selenium-api-3.9.1-sources.jar!/org/openqa/selenium/By.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
+            <state relative-caret-position="6307">
               <caret line="427" selection-start-line="427" selection-end-line="427" />
               <folding>
                 <element signature="e#11352#11353#0" expanded="true" />
@@ -92,16 +86,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/appManager/ApplicationManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="37" />
-              <folding>
-                <element signature="e#2098#2099#0" expanded="true" />
-                <element signature="e#2131#2132#0" expanded="true" />
-                <element signature="e#2269#2270#0" expanded="true" />
-                <element signature="e#2299#2300#0" expanded="true" />
-                <element signature="e#2880#2881#0" expanded="true" />
-                <element signature="e#2947#2948#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="425">
+              <caret line="32" column="48" lean-forward="true" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/resources/allure.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="27" lean-forward="true" selection-start-column="25" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -115,24 +110,6 @@
                 <element signature="e#1997#1998#0" expanded="true" />
                 <element signature="e#2076#2077#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/Tests/LoginLogoutTests/LogoutFromSystemTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/Tests/PagesTests/ElectroVelobikePageTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -183,7 +160,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-346" />
     <option name="y" value="34" />
     <option name="width" value="1936" />
@@ -195,7 +172,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -228,6 +204,15 @@
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="velo_bike" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="usetech_velobike_tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="usetech_velobike_tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="velo_bike" type="462c0819:PsiDirectoryNode" />
+              <item name="appManager" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="usetech_velobike_tests" type="b2602c69:ProjectViewProjectNode" />
@@ -285,10 +270,11 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548116771476" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548116780301" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../velo_bike" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -323,7 +309,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.LoginToSystemFromHederTest">
+  <component name="RunManager" selected="TestNG.ru.usetech.pft.velo_bike.Tests.LoginLogoutTests">
     <configuration default="true" type="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -455,19 +441,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.LoginToSystemFromHederTest" />
-      <item itemvalue="TestNG.LoginToSystemFromMenuTest" />
-      <item itemvalue="TestNG.LogoutFromSystemTest" />
       <item itemvalue="TestNG.ru.usetech.pft.velo_bike.Tests.LoginLogoutTests" />
+      <item itemvalue="TestNG.LoginToSystemFromHederTest" />
       <item itemvalue="TestNG.NewsPageTests" />
+      <item itemvalue="TestNG.LogoutFromSystemTest" />
+      <item itemvalue="TestNG.LoginToSystemFromMenuTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.LoginToSystemFromHederTest" />
-        <item itemvalue="TestNG.ru.usetech.pft.velo_bike.Tests.LoginLogoutTests" />
-        <item itemvalue="TestNG.NewsPageTests" />
         <item itemvalue="TestNG.LoginToSystemFromMenuTest" />
         <item itemvalue="TestNG.LogoutFromSystemTest" />
+        <item itemvalue="TestNG.NewsPageTests" />
+        <item itemvalue="TestNG.LoginToSystemFromHederTest" />
+        <item itemvalue="TestNG.ru.usetech.pft.velo_bike.Tests.LoginLogoutTests" />
       </list>
     </recent_temporary>
   </component>
@@ -517,7 +503,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
@@ -529,16 +515,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3347779" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.19176598" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Build" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32936078" />
+      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -548,7 +533,6 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="right" id="Maven" order="9" />
     </layout>
   </component>
   <component name="editorHistoryManager">
@@ -570,78 +554,17 @@
     <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/resources/menu.feature" />
     <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/resources/bdd/MenuTests.java" />
     <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/resources/bdd/MenuStepDefinitions.java" />
-    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/bdd/MenuTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/main/java/MenuTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/main/java/MenuStepDefinitions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/target/allure-results/b2ddc752-d82a-417e-ab3b-83ac38334827-testsuite.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/bdd/MenuStepDefinitions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="51" column="1" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/MenuTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/MenuStepDefinitions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="36" column="69" selection-start-line="36" selection-start-column="69" selection-end-line="36" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/resources/allure.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="45" selection-start-column="45" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/bdd/MenuTests.java" />
+    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/main/java/MenuTests.java" />
+    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/main/java/MenuStepDefinitions.java" />
+    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/target/allure-results/b2ddc752-d82a-417e-ab3b-83ac38334827-testsuite.xml" />
+    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/bdd/MenuStepDefinitions.java" />
+    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/MenuTests.java" />
+    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/MenuStepDefinitions.java" />
     <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/Tests/MyTestListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="372">
           <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -726,38 +649,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="355">
           <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="e#471#472#0" expanded="true" />
-            <element signature="e#545#546#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.9.1/6d7d1e4444a30bb84633e7ed888e9dcb3877a188/selenium-api-3.9.1-sources.jar!/org/openqa/selenium/By.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="427" selection-start-line="427" selection-end-line="427" />
-          <folding>
-            <element signature="e#11352#11353#0" expanded="true" />
-            <element signature="e#11392#11393#0" expanded="true" />
-            <element signature="e#12904#12905#0" expanded="true" />
-            <element signature="e#12942#12943#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/appManager/ApplicationManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="37" />
-          <folding>
-            <element signature="e#2098#2099#0" expanded="true" />
-            <element signature="e#2131#2132#0" expanded="true" />
-            <element signature="e#2269#2270#0" expanded="true" />
-            <element signature="e#2299#2300#0" expanded="true" />
-            <element signature="e#2880#2881#0" expanded="true" />
-            <element signature="e#2947#2948#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -765,16 +656,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="362" selection-start-line="362" selection-end-line="362" />
-          <folding>
-            <element signature="e#13108#13109#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/Tests/PagesTests/ElectroVelobikePageTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="24" />
+        <state relative-caret-position="221">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          <folding>
+            <marker date="1548107916701" expanded="true" signature="1428:2078" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -789,6 +680,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <marker date="1548110618033" expanded="true" signature="682:688" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/SideMenuNavigationTests.java" />
+    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/Tests/SideMenuTests/SideMenuNavigationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/Tests/LoginLogoutTests/LoginToSystemFromHederTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <marker date="1548109768962" expanded="true" signature="1577:1584" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.9.1/6d7d1e4444a30bb84633e7ed888e9dcb3877a188/selenium-api-3.9.1-sources.jar!/org/openqa/selenium/By.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6307">
+          <caret line="427" selection-start-line="427" selection-end-line="427" />
+          <folding>
+            <element signature="e#11352#11353#0" expanded="true" />
+            <element signature="e#11392#11393#0" expanded="true" />
+            <element signature="e#12904#12905#0" expanded="true" />
+            <element signature="e#12942#12943#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -803,38 +735,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/Tests/LoginLogoutTests/LoginToSystemFromHederTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/Tests/PagesTests/NewsPageTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-408">
-          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        <state relative-caret-position="17">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/SideMenuNavigationTests.java">
+    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/appManager/ApplicationManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+        <state relative-caret-position="425">
+          <caret line="32" column="48" lean-forward="true" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/Tests/SideMenuTests/SideMenuNavigationTests.java">
+    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/resources/allure.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
+        <state>
+          <caret column="27" lean-forward="true" selection-start-column="25" selection-end-column="45" />
         </state>
       </provider>
     </entry>
