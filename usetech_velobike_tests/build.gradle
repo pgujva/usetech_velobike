@@ -7,7 +7,7 @@ compileJava.options.encoding = 'UTF-8'
 repositories {
     mavenCentral()
 }
-jvmargs='-Dfile.encoding=UTF-8'
+
 
 configurations {
     agent
@@ -29,15 +29,15 @@ dependencies {
     compile("io.cucumber:cucumber-java:4.2.1")
     compile("io.cucumber:cucumber-testng:4.2.1")
 }
-//tasks.withType(Compile) {
-  //  options.encoding = 'UTF-8'
-//}
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8'
+}
 task wrapper(type: Wrapper) {
     gradleVersion = '2.10'
 }
 
 test.doFirst {
-    jvmargs='-Dfile.encoding=UTF-8'
+  
     jvmArgs "-javaagent:${configurations.agent.singleFile}"
 }
 
