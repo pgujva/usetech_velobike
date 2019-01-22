@@ -29,7 +29,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="623">
@@ -50,8 +50,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/resources/SideMenuNavigation.xml">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/MenuTests.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="34" />
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -79,21 +88,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="30" column="51" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.9.1/6d7d1e4444a30bb84633e7ed888e9dcb3877a188/selenium-api-3.9.1-sources.jar!/org/openqa/selenium/By.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6307">
-              <caret line="427" selection-start-line="427" selection-end-line="427" />
-              <folding>
-                <element signature="e#11352#11353#0" expanded="true" />
-                <element signature="e#11392#11393#0" expanded="true" />
-                <element signature="e#12904#12905#0" expanded="true" />
-                <element signature="e#12942#12943#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -171,8 +165,8 @@
         <option value="$PROJECT_DIR$/usetech_velobike_tests/src/test/java/SideMenuNavigationTests.java" />
         <option value="$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/Tests/SideMenuTests/SideMenuNavigationTests.java" />
         <option value="$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/Tests/PagesTests/NewsPageTests.java" />
-        <option value="$PROJECT_DIR$/usetech_velobike_tests/src/test/resources/SideMenuNavigation.xml" />
         <option value="$PROJECT_DIR$/usetech_velobike_tests/build.gradle" />
+        <option value="$PROJECT_DIR$/usetech_velobike_tests/src/test/resources/SideMenuNavigation.xml" />
       </list>
     </option>
   </component>
@@ -226,24 +220,6 @@
               <item name="usetech_velobike_tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="velo_bike" type="462c0819:PsiDirectoryNode" />
-              <item name="appManager" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="usetech_velobike_tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="usetech_velobike_tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="velo_bike" type="462c0819:PsiDirectoryNode" />
-              <item name="bdd" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="usetech_velobike_tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="usetech_velobike_tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -268,7 +244,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548165431832" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548165509789" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../velo_bike" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -497,7 +473,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
@@ -530,6 +506,18 @@
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/usetech_velobike_tests/build.gradle</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/appManager/MapHelper.java" />
     <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/appManager/MainPageHelper.java" />
@@ -552,7 +540,6 @@
     <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/main/java/MenuStepDefinitions.java" />
     <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/target/allure-results/b2ddc752-d82a-417e-ab3b-83ac38334827-testsuite.xml" />
     <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/bdd/MenuStepDefinitions.java" />
-    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/MenuTests.java" />
     <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/MenuStepDefinitions.java" />
     <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/ru/usetech/pft/velo_bike/Tests/MyTestListener.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -749,17 +736,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/resources/SideMenuNavigation.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="623">
           <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/resources/SideMenuNavigation.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usetech_velobike_tests/src/test/java/MenuTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
