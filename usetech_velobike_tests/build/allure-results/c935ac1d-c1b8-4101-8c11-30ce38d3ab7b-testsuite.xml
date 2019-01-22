@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1548167684798" stop="1548167697844">
+    <name>Default Suite</name>
+    <test-cases>
+        <test-case start="1548167685697" stop="1548167697678" status="passed">
+            <name>runScenario["Go PricePage","menu"]</name>
+            <steps/>
+            <attachments/>
+            <labels/>
+        </test-case>
+    </test-cases>
+    <labels/>
+</ns2:test-suite>
