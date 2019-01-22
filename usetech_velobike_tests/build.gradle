@@ -7,7 +7,7 @@ compileJava.options.encoding = 'UTF-8'
 repositories {
     mavenCentral()
 }
-org.gradle.jvmargs='-Dfile.encoding=UTF-8'
+jvmargs='-Dfile.encoding=UTF-8'
 
 configurations {
     agent
