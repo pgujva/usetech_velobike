@@ -15,7 +15,7 @@ public class SideMenuNavigationTests extends Testbase {
     String pageUrl = app.getHelperBase().getCurrentPageURL();
     String pageName = app.getHelperBase().getPageName(By.tagName("h1"));
     Assert.assertEquals(pageUrl, "https://velobike.ru/rules/", "неверный URL");
-    Assert.assertEquals(pageName, "Как пользоваться прокато", "неверный заголовок страницы");
+    Assert.assertEquals(pageName, "Как пользоваться прокатом", "неверный заголовок страницы");
   }
 
 
@@ -26,7 +26,7 @@ public class SideMenuNavigationTests extends Testbase {
     String pageUrl = app.getHelperBase().getCurrentPageURL();
     String pageName = app.getHelperBase().getPageName(By.tagName("h1"));
     Assert.assertEquals(pageUrl, "https://velobike.ru/prices/", "неверный URL");
-    Assert.assertEquals(pageName, "Сколько это стои", "неверный заголовок страницы");
+    Assert.assertEquals(pageName, "Сколько это стоит", "неверный заголовок страницы");
   }
 
   @Test(enabled = false)
