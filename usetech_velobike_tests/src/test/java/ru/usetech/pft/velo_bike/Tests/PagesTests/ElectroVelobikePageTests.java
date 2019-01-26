@@ -20,7 +20,7 @@ public class ElectroVelobikePageTests extends Testbase {
 
 
   @Test(enabled = false)
-  public void Test1() {
+  public void test1() {
     //проверка перехода по ссылке «стоимость доступа»
     app.getNavigationHelper().goToPriceFromgoElectroVelobikePage();
     String pricesUrl = app.getHelperBase().getCurrentPageURL();
@@ -29,7 +29,7 @@ public class ElectroVelobikePageTests extends Testbase {
   }
 
   @Test(enabled = false)
-  public void Test2() {
+  public void test2() {
     //проверка перехода по ссылке «вопросы и ответы»
     app.getNavigationHelper().goToQaPageFromgoElectroVelobikePage();
     String qaUrl = app.getHelperBase().getCurrentPageURL();
@@ -39,7 +39,7 @@ public class ElectroVelobikePageTests extends Testbase {
   }
 
   @Test(enabled = false)
-  public void Test3() throws IOException, InterruptedException {
+  public void test3() throws IOException, InterruptedException {
     //отправляем http запрос и из ответа создаем объект типа station
     HttpSession session = app.newSession();
     String respons = session.resp("https://electro.velobike.ru/ajax/parkings/?_=1535358830923");
